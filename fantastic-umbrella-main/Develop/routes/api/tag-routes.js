@@ -50,7 +50,7 @@ router.put("/:id", (req, res) => {
       id: req.params.id,
     },
   })
-  .then((category) => res.status(200).json(tag))
+  .then((tag) => res.status(200).json(tag))
   .catch((err) => res.status(400).json(err));
 });
 
@@ -62,7 +62,7 @@ router.delete("/:id", async (req, res) => {
       },
     })
 
-    .then((category) => res.status(200).json(tag))
+    .then((tag) => res.status(200).json(tag))
     .catch((err) => res.status(400).json(err));
 });
 

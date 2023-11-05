@@ -10,11 +10,11 @@ Tag.init(
     type: DataTypes.INTEGER,
     allowNull: false,
     primaryKey: true,
-    autoIncrement: true
+    autoIncrement: true,
   },
   tag_name: {
-    id: DataTypes.STRING,
-  }
+    type: DataTypes.STRING,
+  },
   },
   {
     sequelize,
