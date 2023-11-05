@@ -23,6 +23,7 @@ This repository contains a codebase for an E-commerce back end starter
 
 ## Screen
 
+<img width="1333" alt="Screenshot 2023-11-05 at 10 14 47 AM" src="https://github.com/samxbrown/Sams_Ecommerce_Backend/assets/135293566/08386047-86a4-46c6-989c-9b84c68c5994">
 
 video link: https://drive.google.com/file/d/1ZhNjo0PC7GbkCLMdXsyRAEdKhLj5sU32/view
 
@@ -30,5 +31,5 @@ video link: https://drive.google.com/file/d/1ZhNjo0PC7GbkCLMdXsyRAEdKhLj5sU32/vi
 ## Contribution
   I would like to thank my tutor Samuel Cordova for assistance with creating this code.
 
-  ## License
+## License
   N/A
